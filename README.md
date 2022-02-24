@@ -1,4 +1,4 @@
-# student_query
+# PersonQuery
 
 ## Project setup
 ```

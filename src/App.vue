@@ -42,7 +42,7 @@ export default {
     Search() {
       this.$bus.$emit("onSearch");
       // console.log(this.fields)
-      axios.get("http://127.0.0.1:8080/user", {params: {id:this.fields["id"],
+      axios.get("https://raw.githubusercontent.com/ninthseason/PersonQuery/main/src/assets/testdata.json", {params: {id:this.fields["id"],
           name:this.fields["name"],
           college:this.fields["college"],
           major:this.fields["major"],
