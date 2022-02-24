@@ -6,7 +6,7 @@ To show the infotmation of people which is in your database.
 
 This is only the front end. If you want to use it, you should create a backend which is matched with it by yourself.
 
-[English]() | [中文]()
+English | [中文](https://github.com/ninthseason/PersonQuery/blob/main/README_ZH.md)
 
 ## Guide
 
